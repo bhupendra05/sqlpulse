@@ -9,7 +9,7 @@ description = "Drop-in N+1 SQL detector. Works with any Python SQL library — n
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Bhupendra Gurjar", email = "bgurjar05.bg@gmail.com" }]
+authors = [{ name = "Bhupendra Tale", email = "bgurjar05.bg@gmail.com" }]
 keywords = ["developer-tools", "debugging", "python", "performance", "sqlpulse"]
 classifiers = [
     "Development Status :: 4 - Beta",
